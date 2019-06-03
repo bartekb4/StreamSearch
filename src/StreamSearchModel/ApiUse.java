@@ -26,7 +26,7 @@ public class  ApiUse {
     public String connect(String query) throws IOException, ParseException {
 
         URL url = new URL("https://utelly-tv-shows-and-movies-availability-v1.p.rapidapi.com/lookup?");
-        URL url2 = new URL(url + "term=" + query + "&country=uk");
+        URL url2 = new URL(url + "term=" + query + "&country=us");
         HttpURLConnection con3 = (HttpURLConnection) url2.openConnection();
         con3.setRequestProperty("X-RapidAPI-Host", "utelly-tv-shows-and-movies-availability-v1.p.rapidapi.com"); ///making utelly api connection
         con3.setRequestProperty("X-RapidAPI-Key", "8a2f94d881msh0cee2e1de8e452ep14186ajsnc0a39f09d0de");

@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3b255b-ab90-4519-9260-775dff307869" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/response.json" beforeDir="false" afterPath="$PROJECT_DIR$/response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +36,10 @@
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
+            <state relative-caret-position="1111">
               <caret line="181" selection-start-line="181" selection-end-line="181" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,11 +118,11 @@
         <option value="$PROJECT_DIR$/src/StreamSearchView/StreamSearchGUI.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchModel/SearchException.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.form" />
-        <option value="$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchModel/Search.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchModel/Main.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java" />
         <option value="$PROJECT_DIR$/src/StreamSearchModel/Item.java" />
+        <option value="$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java" />
       </list>
     </option>
   </component>
@@ -138,6 +139,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,18 +158,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StreamSearchGUI" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="StreamSearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StreamSearch" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamSearchGUI" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamSearchGUI" type="e9f4de52:FormNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +170,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559582639802" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApiExcercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -294,6 +288,7 @@
       <workItem from="1559580792321" duration="220000" />
       <workItem from="1559581772075" duration="236000" />
       <workItem from="1559582153579" duration="622000" />
+      <workItem from="1559584224983" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="accesing multiple names">
       <created>1558884852440</created>
@@ -355,12 +350,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53042000" />
+    <option name="totallyTimeSpent" value="53126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12348993" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12483221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -483,20 +478,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java">
+    <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="1111">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        <state relative-caret-position="323">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -7,15 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3b255b-ab90-4519-9260-775dff307869" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Excercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/NbpAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/NbpAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/SaosAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/SaosAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/SmogAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercises/out/production/NBPExcercises/SmogAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,10 +35,10 @@
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2210">
+            <state relative-caret-position="2465">
               <caret line="181" selection-start-line="181" selection-end-line="181" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="544">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,7 +109,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,36 +137,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="StreamSearchFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StreamSearchFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamSearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StreamSearchFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StreamSearchFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamSearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StreamSearchFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StreamSearchFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamSearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StreamSearchGUI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StreamSearchFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StreamSearchFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamSearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamSearchModel" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearchGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamSearchGUI" type="e9f4de52:FormNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,11 +175,12 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="298" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558964958605" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Excercises" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559582639802" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApiExcercises" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -205,13 +199,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamSearchGUI">
+  <component name="RunManager" selected="Application.StreamSearchGUI (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="StreamSearchModel.Main" />
       <module name="StreamSearchFinal" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamSearchGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamSearchGUI.StreamSearchGUI" />
+      <module name="StreamSearchFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamSearchGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -247,9 +254,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StreamSearchGUI" />
+      <item itemvalue="Application.StreamSearchGUI (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamSearchGUI (1)" />
         <item itemvalue="Application.StreamSearchGUI" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StreamSearchGUI" />
@@ -284,6 +293,7 @@
       <workItem from="1559552154955" duration="736000" />
       <workItem from="1559580792321" duration="220000" />
       <workItem from="1559581772075" duration="236000" />
+      <workItem from="1559582153579" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="accesing multiple names">
       <created>1558884852440</created>
@@ -345,13 +355,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52420000" />
+    <option name="totallyTimeSpent" value="53042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12214765" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12348993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -447,16 +456,6 @@
     <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/SearchException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -486,8 +485,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StreamSearchModel/ApiUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="544">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamSearchGUI/StreamSearchGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

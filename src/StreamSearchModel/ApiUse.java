@@ -16,9 +16,7 @@ import java.util.stream.IntStream;
 
 
 public class  ApiUse {
-    private Item item;
-    String query=null;
-    private Search search;
+
 
     public ApiUse() {
 
